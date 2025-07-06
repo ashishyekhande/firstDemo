@@ -2,6 +2,7 @@ package OOPS;
 
 public class abstractTest extends demoabstract  {
 
+	// this is main program creator
 	
 	// ashish test rest done
 	public void square()
